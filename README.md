@@ -59,7 +59,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/mahmoudhhussein/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/mahmoudalero"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://facebook.com/mahmoudalero"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 
 </p>
 
