@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as **[Freelance](https://www.linkedin.com/in/mahmoudhhussein/)**
+- 🔭 I’m currently working as **[Senior Frontend Developer](https://www.codexforweb.com)**
 
 - 🌱 I’m currently learning **Firebase & Redux toolkit**
 
